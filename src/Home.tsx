@@ -25,7 +25,7 @@ const Home = () => {
                     and the passion to deliver high quality products to customers is what I focus on.
             </p>
             <div className="btn-con">
-            <a href="./assets/Resume-Michael Hoang.pdf"  download className="main-btn">
+            <a href="../public/Resume-Michael Hoang.pdf"  download className="main-btn">
                 <span className="btn-text">Download CV</span>
                 <span className="btn-icon"><i className="fa-download"><FaCloudDownloadAlt /></i></span>
             </a>
