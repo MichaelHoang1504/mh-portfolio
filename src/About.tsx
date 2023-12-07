@@ -30,6 +30,7 @@ const About = () => {
                     <li>React</li>
                     <li>Redux</li>
                     <li>Vite</li>
+                    <li>ASP.NET</li>
                     <li>jQuery</li>
                 </ul>
                 <ul aria-description='Back-end'>
@@ -40,11 +41,12 @@ const About = () => {
                     <li>MongoDB/Mongoose</li>
                     <li>Go</li>
                     <li>REST API</li>
+                    <li>CI/CD</li>
                 </ul>
                 <ul aria-description='Others'>
                     <li>Git</li>
                     <li>GitHub</li>
-                    <li>Webmethod</li>
+                    <li>Azure DevOps</li>
                     <li>VS Code</li>
                     <li>Typescript</li>
                     <li>Netlify</li>

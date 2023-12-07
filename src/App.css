@@ -190,6 +190,10 @@ nav .nav-item:hover {
 }
 
 @media screen and (max-width: 800px) {
+  .home-container {
+    width:auto;
+    height: auto;
+  }
   .About-container {
     height: auto;
     display: flex;
