@@ -16,10 +16,9 @@ const About = () => {
             </div>
             <div className="About-info">
                 <h1>About Me</h1>
-                <p>With high passion in Software Development domain, I would love to do as well as learn new and better ways to create seamless user experiences with clean, efficient, and optimizer programs.
-                I think that people should look at the bigger picture when they are building something. I love to work in groups where everyone can voice their opinions and ideas.
+                <p>I am highly skilled in HTML, CSS, and JavaScript, and I have a strong understanding of responsive design principles. I am also experienced in using version control systems such as Git and have a solid understanding of Agile development methodologies. My ability to collaborate effectively with cross-functional teams and my strong problem-solving skills have been instrumental in delivering successful projects on time and within budget.
                 <br />
-                And I think that the best way to improve my continuously development is to learn from our teams and our mistakes. 
+                With a solid background in front-end development and expertise Javascript framework such as React or Vue, I am confident in my ability to deliver high-quality scalable code and exceptional user experiences. And I think that the best way to improve my continuously development is to learn from our teams and our mistakes. 
                 </p>
                 <strong>My Skills</strong>
                 <div className='mySkill'>
@@ -27,30 +26,21 @@ const About = () => {
                     <li>HTML</li>
                     <li>CSS</li>
                     <li>Javascript</li>
-                    <li>React</li>
+                    <li>React.js</li>
                     <li>Redux</li>
-                    <li>Vite</li>
-                    <li>ASP.NET</li>
-                    <li>jQuery</li>
+                    <li>Vue.js</li>
                 </ul>
                 <ul aria-description='Back-end'>
-                    <li>NodeJS</li>
+                    <li>Node.js</li>
                     <li>MySQL</li>
-                    <li>Webmethod</li>
                     <li>postSQL</li>
-                    <li>MongoDB/Mongoose</li>
                     <li>Go</li>
-                    <li>REST API</li>
-                    <li>CI/CD</li>
                 </ul>
                 <ul aria-description='Others'>
                     <li>Git</li>
                     <li>GitHub</li>
                     <li>Azure DevOps</li>
                     <li>VS Code</li>
-                    <li>Typescript</li>
-                    <li>Netlify</li>
-                    <li>D3</li>
                     <li>AWS</li>
                 </ul>
                 </div>

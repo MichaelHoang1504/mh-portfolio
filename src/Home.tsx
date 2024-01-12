@@ -21,8 +21,8 @@ const Home = () => {
             </h3>
             <p>
                     I would love to create beautiful and functional websites. 
-                    With strong mindset of Software Development 
-                    and the passion to deliver high quality products to customers is what I focus on.
+                    With strong Agile mindset of Software Development 
+                    and the passion to deliver incremental value to customers is what I focus on.
             </p>
             <div className="btn-con">
             <a href="/Resume-Michael Hoang.pdf"  download className="main-btn">
